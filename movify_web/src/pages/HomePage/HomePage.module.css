@@ -1,0 +1,29 @@
+.content {
+    display: flex;
+    flex-direction: column;
+    align-items: center;       
+}
+
+.inputContainer {
+    margin-top: 20px;  
+    margin-bottom: 20px;  
+}
+
+.serviceSwitcher {    
+    margin-bottom: 20px;  
+}
+
+.result {
+    margin-top: 20px;
+    margin-bottom: 50px;
+}
+
+.inputType {
+    width: 100px;
+}
+
+.footer {
+    margin-top: 100px;
+    width: 100%;
+    text-align: center;
+}

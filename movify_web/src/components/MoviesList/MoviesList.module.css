@@ -1,0 +1,11 @@
+.row {
+    justify-content: center;
+}
+
+.card {
+    width: 240px;
+}
+
+.col {
+    padding-bottom: 20px;
+}
